@@ -1,4 +1,4 @@
-![alt text](./github_bg.png)
+![alt text](./github_bg-m.png)
 
 
 <img  align='right' width="auto" height="auto" src="https://quotes-github-readme.vercel.app/api?quoteColor=b58900&authorColor=268bd2&backgroundColor=fdf6e3&symbolColor=859900" alt="Quotes">
