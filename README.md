@@ -32,7 +32,7 @@ I'm constantly looking for challenges that allow me to apply my knowledge and cr
 <div align="center">
 
 <!--- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dleffe&theme=solarized) -->
-  ![My GitHub graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dleffe&theme=solarized)
+  <!-- ![My GitHub graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dleffe&theme=solarized) -->
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dleffe&show_icons=true&theme=solarized-light)
   
 </div>
